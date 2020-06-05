@@ -1,7 +1,7 @@
 # Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
 
 * Студент: [Георгий Баранов](https://up.htmlacademy.ru/javascript/20/user/881615).
-* Наставник: `Неизвестно`.
+* Наставник: `Тест`.
 
 ---
 
